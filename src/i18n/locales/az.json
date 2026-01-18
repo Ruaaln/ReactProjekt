@@ -1,0 +1,88 @@
+{
+  "appName": "Səyahət Kəşfiyyatı",
+  "nav": {
+    "home": "Ana səhifə",
+    "explore": "Kəşf et",
+    "admin": "Admin"
+  },
+  "search": {
+    "placeholder": "Məkanları, görməli yerləri və daha çoxunu axtarın"
+  },
+  "filters": {
+    "category": "Kateqoriya",
+    "city": "Şəhər",
+    "clear": "Filtrləri təmizlə"
+  },
+  "listing": {
+    "title": "Məkanları kəşf et",
+    "noResults": "Filtrlərə uyğun məkan tapılmadı."
+  },
+  "pagination": {
+    "prev": "Əvvəlki",
+    "next": "Növbəti"
+  },
+  "home": {
+    "featured": "Seçilmiş məkanlar",
+    "ads": "Sponsor",
+    "places": "Populyar məkanlar"
+  },
+  "detail": {
+    "overview": "Ümumi baxış",
+    "address": "Ünvan",
+    "amenities": "İmkanlar",
+    "hours": "İş saatları",
+    "rating": "Reytinq",
+    "views": "Baxışlar",
+    "loading": "Məlumatlar yüklənir..."
+  },
+  "admin": {
+    "login": {
+      "title": "Admin girişi",
+      "username": "İstifadəçi adı",
+      "password": "Şifrə",
+      "submit": "Daxil ol",
+      "error": "Yanlış məlumatlar"
+    },
+    "sidebar": {
+      "places": "Məkanlar",
+      "create": "Məkan yarat",
+      "logout": "Çıxış"
+    },
+    "places": {
+      "title": "Məkanları idarə et",
+      "empty": "Məkan tapılmadı.",
+      "edit": "Redaktə",
+      "delete": "Sil",
+      "create": "Məkan əlavə et"
+    },
+    "form": {
+      "createTitle": "Məkan yarat",
+      "editTitle": "Məkanı redaktə et",
+      "fields": {
+        "title": "Başlıq",
+        "description": "Təsvir",
+        "category": "Kateqoriya",
+        "city": "Şəhər",
+        "address": "Ünvan",
+        "amenities": "İmkanlar (vergüllə ayırın)",
+        "hours": "İş saatları",
+        "rating": "Reytinq",
+        "views": "Baxışlar",
+        "photos": "Şəkillər"
+      },
+      "submit": "Yadda saxla"
+    }
+  },
+  "notFound": {
+    "title": "Səhifə tapılmadı",
+    "message": "Axtardığınız səhifə mövcud deyil.",
+    "back": "Ana səhifəyə qayıt"
+  },
+  "footer": {
+    "tagline": "Dünyanın hər yerində təcrübələr, restoranlar və macəralar kəşf edin."
+  },
+  "errors": {
+    "loadFailed": "Məlumatları yükləmək mümkün olmadı. Yenidən cəhd edin.",
+    "notFound": "Bu məkan tapılmadı."
+  }
+}
